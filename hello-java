@@ -1,7 +1,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Happ new year");
-    System.out.println("Happy birthday");
+    System.out.println("Happy christmas');
     System.out.println("Happy sankranthi");
   }
 }
