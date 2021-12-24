@@ -3,6 +3,10 @@ public class HelloWorld {
     System.out.println("Happy birthdjujujhuhay");
     System.out.println("Happy christmas');
     System.out.println("Happy sankranthi");
+    System.out.println("Happy independence day");
+    System.out.println("Happy diwali");
+    System.out.println("Happy birthday");
+    
   }
 }
 
